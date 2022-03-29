@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Hello World!")
-st.write("Welcome to my first app!")
+# st.write("Welcome to my first app!")
 # st.markdown("#### This is a markdown section")
 # age = st.slider("How old are you?", 0, 100)
 # st.write("So, you're %d years old." % age)
@@ -10,4 +10,4 @@ st.write("Welcome to my first app!")
 # fruit1
 # fruit2
 
-st.balloons()
+# st.balloons()
